@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+#парсер для супа
+tqdm
+# для создания статус-бара в консоли
